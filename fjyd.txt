@@ -59,6 +59,7 @@ CCTV16 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 延边卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227330/index.m3u8
 
 
+港澳台频道,#genre#
 凤凰中文,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 凤凰资讯,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
 凤凰香港台,https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
