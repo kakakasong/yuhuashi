@@ -86,6 +86,15 @@ TVBS新闻,https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
 
 
 
+体育频道,#genre#
+纬來体育台,https://s1.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8
+Astro Football,https://s1.tvm4a1.cfd/astro/CH-0/AKTV.m3u8
+Astro Sport UHD,https://s1.tvm4a1.cfd/astro/astrosportuhd/AKTV.m3u8
+精品体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+
+
+
 
 福建频道,#genre#
 福建综合(高清),rtsp://112.111.36.140/PLTV/88888909/224/3221225978/10000100000000060000000004311310_0.smil
@@ -109,15 +118,6 @@ TVBS新闻,https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
 
 
 
-
-
-
-体育频道,#genre#
-纬來体育台,https://s1.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8
-Astro Football,https://s1.tvm4a1.cfd/astro/CH-0/AKTV.m3u8
-Astro Sport UHD,https://s1.tvm4a1.cfd/astro/astrosportuhd/AKTV.m3u8
-精品体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 
 
 
