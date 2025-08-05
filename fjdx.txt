@@ -94,6 +94,7 @@ CCTV-4K,http://27.148.240.185/PLTV/88888888/224/3221227333/1.m3u8
 凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 凤凰香港台,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQW05L050dUNUQ0ovL292VGprRytROUROdEpSTUtsNHhCNVRQc3VrTWdKNA%3D%3D
 凤凰香港台,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+无线新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczT3NEbU55MHNDSll6c0ErMVRuU2hJUnpENW1SM2Fpd3lVSExNR1lRSzJUY2JrMHd0a0ppS2tuL1pLVHFuUHNsQWc9PQ%3D%3D
 无线新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQW05L050dUNUQ0ovL292VGprRytRK1g5ajZwQmZTZzVQZUprQnFRcFBhcA%3D%3D
 无线新闻台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 有线新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=VzFYQTFYMHAyakFwN1ExTTBROElQd1cvVGdpaDI2NHdDb0RPa2RmcXkwOWgxb29IWElFT0hsdElGcVpobndOb2pZQzMxTHl1VE5yQ2VtZ2p5S3FTN3c9PQ%3D%3D
@@ -166,6 +167,7 @@ Astro Sport UHD,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
 
 加密节目_353535,#genre#
 『福建电信』,http://27.148.240.185/PLTV/88888888/224/3221226861/1.m3u8
+
 
 
 
