@@ -98,6 +98,7 @@ CCTV-4K,http://27.148.240.185/PLTV/88888888/224/3221227333/1.m3u8
 无线新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQW05L050dUNUQ0ovL292VGprRytRK1g5ajZwQmZTZzVQZUprQnFRcFBhcA%3D%3D
 无线新闻台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 有线新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=VzFYQTFYMHAyakFwN1ExTTBROElQd1cvVGdpaDI2NHdDb0RPa2RmcXkwOWgxb29IWElFT0hsdElGcVpobndOb2pZQzMxTHl1VE5yQ2VtZ2p5S3FTN3c9PQ%3D%3D
+寰宇新闻频道,http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
 寰宇新闻频道,https://feiyang.wangdu.site/decrypt_m3u.php?url=VzFYQTFYMHAyakFwN1ExTTBROElQd1cvVGdpaDI2NHdDb0RPa2RmcXkwOHlVNHp5WHJpWm9yeTBXZlgrREVjQ0FJaTdJUTA1NUVPU3JlR0tieExDeGc9PQ%3D%3D
 中天亚洲台,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
 TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
@@ -111,6 +112,8 @@ TVBS新闻,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 东森新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=VzFYQTFYMHAyakFwN1ExTTBROElQd1cvVGdpaDI2NHdDb0RPa2RmcXkwODZzTitVbnlVR2NRb3hIeWh4MFZNTzR4Qm5pcFVFbWVYejk1M3Yrci9pa1E9PQ%3D%3D
 东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+三立LIVE,http://s1.an94tv.cfd/zhongtian/live/AKTV.m3u8
+
 
 
 财经频道,#genre#
@@ -167,6 +170,7 @@ Astro Sport UHD,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
 
 加密节目_353535,#genre#
 『福建电信』,http://27.148.240.185/PLTV/88888888/224/3221226861/1.m3u8
+
 
 
 
