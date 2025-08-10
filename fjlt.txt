@@ -73,17 +73,17 @@ CCTV-4K,rtsp://112.111.36.140/PLTV/88888909/224/3221225984/100001000000000600000
 
 
 港澳台频道,#genre#
-凤凰中文,https://feiyang.wangdu.site/decrypt_m3u.php?url=bWtOdjFQc1ZCczFiUU9SWVl2dndhZkpkV3dlejhvMmFTVitkYXdTcEZEaz0%3D
 凤凰中文,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQW05L050dUNUQ0ovL292VGprRytROWIrNG42QTM0aEx4V0sxNnBreGI1YQ%3D%3D
 凤凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-凤凰资讯,https://feiyang.wangdu.site/decrypt_m3u.php?url=bWtOdjFQc1ZCczFiUU9SWVl2dndhY0d2ckt4SGFhWHdIM2Fxa0dXZ2xWOD0%3D
 凤凰资讯,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQW05L050dUNUQ0ovL292VGprRytROS96VmFydTFRcnlmUzhkNlNJckJ6Vg%3D%3D
 凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 凤凰香港台,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQW05L050dUNUQ0ovL292VGprRytROUROdEpSTUtsNHhCNVRQc3VrTWdKNA%3D%3D
 凤凰香港台,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+无线新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczT3NEbU55MHNDSll6c0ErMVRuU2hJUnpENW1SM2Fpd3lVSExNR1lRSzJUY2JrMHd0a0ppS2tuL1pLVHFuUHNsQWc9PQ%3D%3D
 无线新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQW05L050dUNUQ0ovL292VGprRytRK1g5ajZwQmZTZzVQZUprQnFRcFBhcA%3D%3D
 无线新闻台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 有线新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=VzFYQTFYMHAyakFwN1ExTTBROElQd1cvVGdpaDI2NHdDb0RPa2RmcXkwOWgxb29IWElFT0hsdElGcVpobndOb2pZQzMxTHl1VE5yQ2VtZ2p5S3FTN3c9PQ%3D%3D
+寰宇新闻频道,http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
 寰宇新闻频道,https://feiyang.wangdu.site/decrypt_m3u.php?url=VzFYQTFYMHAyakFwN1ExTTBROElQd1cvVGdpaDI2NHdDb0RPa2RmcXkwOHlVNHp5WHJpWm9yeTBXZlgrREVjQ0FJaTdJUTA1NUVPU3JlR0tieExDeGc9PQ%3D%3D
 中天亚洲台,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
 TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
@@ -97,6 +97,7 @@ TVBS新闻,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 东森新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=VzFYQTFYMHAyakFwN1ExTTBROElQd1cvVGdpaDI2NHdDb0RPa2RmcXkwODZzTitVbnlVR2NRb3hIeWh4MFZNTzR4Qm5pcFVFbWVYejk1M3Yrci9pa1E9PQ%3D%3D
 东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+三立LIVE,http://s1.an94tv.cfd/zhongtian/live/AKTV.m3u8
 
 
 财经频道,#genre#
@@ -163,6 +164,7 @@ CCTV-14,rtsp://112.111.36.140/PLTV/88888909/224/3221225697/100001000000000600000
 纪实科教(测试),rtsp://112.111.36.140/PLTV/88888909/224/3221225989/390009032.smil?rrsip=220.200.30.136,rrsip=112.111.36.140,rrsip=220.200.30.136&zoneoffset=480&icpid=113&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ew6m5I9T1z3lYxkuzOWdqaQec209af2cb3f7e8b4a81dfcd975ead17%7Erec7_nn0Z1JZmggNi63Fp7oGoR349kXNuvoqK-Tf-_itnljaW7nIDMiuAc41J6yzR9TFrq1vf-suVGKNgzswQ0akBsqZWMH5VrjXl-8PGcc15b2d68576b495e1ed990eb8849c10f0%7EExtInfoCXEhhXATZCREJyzZ3gF7jwa12a6be08369f3b021607f40b230bae2%3A20250705143320%2C356000%2C175.44.14.126%2C20250705143320%2C00000001000000050000000000000565%2C356000%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C390009032%2CEND
 山东教育,rtsp://112.111.36.140/PLTV/88888909/224/3221225705/10000100000000060000000000391773_0.smil?rrsip=220.200.30.136,rrsip=112.111.36.140,rrsip=220.200.30.136&zoneoffset=480&icpid=113&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EzAkTh7XZdq9766h_INHtMQc460a4596794a1ed7b0b0bd169518c2b%7Erec7_nn0Z1JZmggNi63Fp7oGoR349kXNuvoqK-Tf-_itnljaW7nIDMiuAc41J6yzR9TFrq1vf-suVGKNgzswQ0akBsqZWMH5VrjXl-8PGcc15b2d68576b495e1ed990eb8849c10f0%7EExtInfoCXEhhXATZCREJyzZ3gF7jwa12a6be08369f3b021607f40b230bae2%3A20250705143320%2C356000%2C175.44.14.126%2C20250705143320%2C00005000000000000000000000000248%2C356000%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000391773_0%2CEND
 少儿动画,rtsp://112.111.36.140/PLTV/88888909/224/3221225739/10000100000000060000000000402460_0.smil?rrsip=220.200.30.136,rrsip=112.111.36.140,rrsip=220.200.30.136&zoneoffset=480&icpid=113&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EdAsMwuFRQ_LiLTiy-_m72Q1e2b3d8b2a3e912464017ea2f83362d1%7Erec7_nn0Z1JZmggNi63Fp7oGoR349kXNuvoqK-Tf-_itnljaW7nIDMiuAc41J6yzR9TFrq1vf-suVGKNgzswQ0akBsqZWMH5VrjXl-8PGcc15b2d68576b495e1ed990eb8849c10f0%7EExtInfoCXEhhXATZCREJyzZ3gF7jwa12a6be08369f3b021607f40b230bae2%3A20250705143320%2C356000%2C175.44.14.126%2C20250705143320%2C00000001000000050000000000000103%2C356000%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000402460_0%2CEND
+
 
 
 
