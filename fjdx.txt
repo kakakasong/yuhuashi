@@ -92,27 +92,32 @@ CCTV-4K,http://27.148.240.185/PLTV/88888888/224/3221227333/1.m3u8
 凤凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 凤凰资讯,rtsp://27.148.240.138/PLTV/88888888/224/3221226149/10000100000000060000000000783420_0.smil?zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EZmOoP2nwQpuDraQoJdP1BA%7ERH_bzdopoyPxlRU4atqrACUj7Kb_s8IKRSC5hfWjBp2C0uPjYkVP86x1wrwHEXJubPWheWUZdAXNCtpsgGp_qx6-jqXXjPXiFE6TsQt7xeo%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20191104122119%2C830459%2C27.158.100.159%2C20191104122119%2C10000100000000050000000000795353%2C83045920191104122118%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-凤凰香港台,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQW05L050dUNUQ0ovL292VGprRytROUROdEpSTUtsNHhCNVRQc3VrTWdKNA%3D%3D
-凤凰香港台,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-无线新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczT3NEbU55MHNDSll6c0ErMVRuU2hJUnpENW1SM2Fpd3lVSExNR1lRSzJUY2JrMHd0a0ppS2tuL1pLVHFuUHNsQWc9PQ%3D%3D
+凤凰香港台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTlBmZ3FBQmU4ZVdyYWhPTzBURmhtMQ%3D%3D
+凤凰香港台,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8$AKTV
+无线新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTVFwcnQ2Y2FvQkRpQWZjMlZUK1lsdA%3D%3D
 无线新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQW05L050dUNUQ0ovL292VGprRytRK1g5ajZwQmZTZzVQZUprQnFRcFBhcA%3D%3D
-无线新闻台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+无线新闻台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8$AKTV
 有线新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=VzFYQTFYMHAyakFwN1ExTTBROElQd1cvVGdpaDI2NHdDb0RPa2RmcXkwOWgxb29IWElFT0hsdElGcVpobndOb2pZQzMxTHl1VE5yQ2VtZ2p5S3FTN3c9PQ%3D%3D
-寰宇新闻频道,http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
+NOW新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWdmUVkzMTc1M2RIYU9EVDJaMGc0OQ%3D%3D
+寰宇新闻频道,http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8$AKTV
 寰宇新闻频道,https://feiyang.wangdu.site/decrypt_m3u.php?url=VzFYQTFYMHAyakFwN1ExTTBROElQd1cvVGdpaDI2NHdDb0RPa2RmcXkwOHlVNHp5WHJpWm9yeTBXZlgrREVjQ0FJaTdJUTA1NUVPU3JlR0tieExDeGc9PQ%3D%3D
-中天亚洲台,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
-TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+Tvbs 55频道,http://s1.an94tv.cfd/zhongtian/tvbs55/AKTV.m3u8$AKTV
+Tvbs 56频道,http://s1.an94tv.cfd/zhongtian/tvbs56/AKTV.m3u8$AKTV
 民视,https://feiyang.wangdu.site/decrypt_m3u.php?url=YXdaYklOcnVHSTRhNWlzUW1lMHlaYTRTTHVIQzloK1BiOUNQdHN6VVJYRnM3VmdMYjhEZmo4bGJzdWRnRUliZHoxVGlwOWNGM3lKSmFRZ1hHb1FpUFE9PQ%3D%3D
-民视,http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
-民视第一台,http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
 台视新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=RVEvMmdMNThSaG5wRUR2bU1NRUx6dUg5U29oSnAzRytlOUVhQTI1dG01a2w4Wm9sUDZJYVU4TjBPbklvdFJIeFBHaEN0bnFxNi80bml0YmlQdXFpcEE9PQ%3D%3D
+台视新闻台,http://s1.an94tv.cfd/zhongtian/CH-4/AKTV.m3u8$AKTV
 中视新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=RVEvMmdMNThSaG5wRUR2bU1NRUx6dUg5U29oSnAzRytlOUVhQTI1dG01bUFwdS9LTDZET1I2NTU5WDZZOE9Rb2wwcXhRZkFqUWpVcEhYVnNRZjVmVFE9PQ%3D%3D
+中视新闻台,http://s1.an94tv.cfd/zhongtian/CH-3/AKTV.m3u8$AKTV
 民视新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=RVEvMmdMNThSaG5wRUR2bU1NRUx6dUg5U29oSnAzRytlOUVhQTI1dG01azk2S256OFJTUTZYOFovd2xDamdsR2VvYUR5VGhyLzdKWUlXM3ZUOTRGWFE9PQ%3D%3D
-TVBS新闻,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
-中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-东森新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=VzFYQTFYMHAyakFwN1ExTTBROElQd1cvVGdpaDI2NHdDb0RPa2RmcXkwODZzTitVbnlVR2NRb3hIeWh4MFZNTzR4Qm5pcFVFbWVYejk1M3Yrci9pa1E9PQ%3D%3D
-东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
-三立LIVE,http://s1.an94tv.cfd/zhongtian/live/AKTV.m3u8
+民视新闻台,http://s1.an94tv.cfd/zhongtian/CH-5/AKTV.m3u8$AKTV
+中天新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTzVHNjhwclM5QTNvblZoaGlKaXBESQ%3D%3D
+中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8$AKTV
+东森新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWRzMUd2MWJ6QTFrQ1YwQmxWWXRObQ%3D%3D
+东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8$AKTV
+三立LIVE,http://s1.an94tv.cfd/zhongtian/live/AKTV.m3u8$AKTV
+TVBS新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWFxZWx1eTAzc1oydm5mcjJCS1ErcQ%3D%3D
+三立新闻加限,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTmlCNzFvQnRmL29tQXFPQ0JFT2VzNw%3D%3D
+非凡新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTldnZDY5Qm9jK0FMWmVOaDhDdkNpOA%3D%3D
 
 
 
@@ -170,6 +175,7 @@ Astro Sport UHD,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
 
 加密节目_353535,#genre#
 『福建电信』,http://27.148.240.185/PLTV/88888888/224/3221226861/1.m3u8
+
 
 
 
