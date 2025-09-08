@@ -61,55 +61,44 @@ CCTV16 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 
 港澳台频道,#genre#
 凤凰中文,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVUHRpdGRON3VnRlpDNk8zaTBYMzV5QQ%3D%3D
-凤凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8$AKTV
 凤凰资讯,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQW05L050dUNUQ0ovL292VGprRytROS96VmFydTFRcnlmUzhkNlNJckJ6Vg%3D%3D
-凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8$AKTV
 凤凰香港台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTlBmZ3FBQmU4ZVdyYWhPTzBURmhtMQ%3D%3D
-凤凰香港台,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8$AKTV
 无线新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTVFwcnQ2Y2FvQkRpQWZjMlZUK1lsdA%3D%3D
 无线新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQW05L050dUNUQ0ovL292VGprRytRK1g5ajZwQmZTZzVQZUprQnFRcFBhcA%3D%3D
-无线新闻台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8$AKTV
 有线新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=VzFYQTFYMHAyakFwN1ExTTBROElQd1cvVGdpaDI2NHdDb0RPa2RmcXkwOWgxb29IWElFT0hsdElGcVpobndOb2pZQzMxTHl1VE5yQ2VtZ2p5S3FTN3c9PQ%3D%3D
 NOW新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWdmUVkzMTc1M2RIYU9EVDJaMGc0OQ%3D%3D
-寰宇新闻频道,http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8$AKTV
 寰宇新闻频道,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTmZFSlFGSDlEMlhHejZLY0xwaDNoRQ%3D%3D
-Tvbs 55频道,http://s1.an94tv.cfd/zhongtian/tvbs55/AKTV.m3u8$AKTV
-Tvbs 56频道,http://s1.an94tv.cfd/zhongtian/tvbs56/AKTV.m3u8$AKTV
 民视,https://feiyang.wangdu.site/decrypt_m3u.php?url=YXdaYklOcnVHSTRhNWlzUW1lMHlaYTRTTHVIQzloK1BiOUNQdHN6VVJYRnM3VmdMYjhEZmo4bGJzdWRnRUliZHoxVGlwOWNGM3lKSmFRZ1hHb1FpUFE9PQ%3D%3D
 台视新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTlBDa2RNRGhQZVpKRWlNZGVhV09jRA%3D%3D
-台视新闻台,http://s1.an94tv.cfd/zhongtian/CH-4/AKTV.m3u8$AKTV
 中视新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWVydmZ5WmdCMWhTWmdudGNvN0JoUQ%3D%3D
-中视新闻台,http://s1.an94tv.cfd/zhongtian/CH-3/AKTV.m3u8$AKTV
 民视新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=RVEvMmdMNThSaG5wRUR2bU1NRUx6dUg5U29oSnAzRytlOUVhQTI1dG01azk2S256OFJTUTZYOFovd2xDamdsR2VvYUR5VGhyLzdKWUlXM3ZUOTRGWFE9PQ%3D%3D
-民视新闻台,http://s1.an94tv.cfd/zhongtian/CH-5/AKTV.m3u8$AKTV
 中天新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTzVHNjhwclM5QTNvblZoaGlKaXBESQ%3D%3D
-中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8$AKTV
 东森新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWRzMUd2MWJ6QTFrQ1YwQmxWWXRObQ%3D%3D
-东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8$AKTV
-三立LIVE,http://s1.an94tv.cfd/zhongtian/live/AKTV.m3u8$AKTV
 TVBS新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWFxZWx1eTAzc1oydm5mcjJCS1ErcQ%3D%3D
+TVBS,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTmpEQUU5VTNZdXVhWTA3N2V0VUVreA%3D%3D
 三立新闻加限,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTmlCNzFvQnRmL29tQXFPQ0JFT2VzNw%3D%3D
 非凡新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTldnZDY5Qm9jK0FMWmVOaDhDdkNpOA%3D%3D
 TVBS,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTnJzQUhLUXNOVE5DbzBrQjRKdXpOWg%3D%3D
-
+新唐人,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVUFZ2cnVjMnVDV2pvMXgrUFZlNHhFNg%3D%3D
 
 
 
 财经频道,#genre#
 第一财经,https://feiyang.wangdu.site/decrypt_m3u.php?url=eVUzTUY2UUE2dytJY1NBdUpCNWdQYTV0QTZMOTNJUkNTSVo1UnF1R0VzQ0pQVzZYRGZoUGhKTVN0WTNkcGM2QQ%3D%3D
 财经频道,https://feiyang.wangdu.site/decrypt_m3u.php?url=Ry9BK2Q2ZUh2QVdBcFBlYXRzYWtydFRtNnc4QlRVTmNWZWlqa2NLR3ByYXMwVDI2QWovUVNCU0hRQjdjbUNheQ%3D%3D
+北京财经,https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNFNCRC93RDl5bS9BaHV2dlgzOXJpclhMUEFBWVlGNUo4c3ZKaXhOakdyV2luWElhYzdsUGx0M0Z4UkQzZ3hhekJIdm1VTmNqc1dLM05JMnc3K0lZMUU3cVFZN08yUGpXWHRXZzdLMU5Gb25DRTVSejhoMnp5akJneHdNcFUxWXprPQ%3D%3D
+Now财经,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVT0tiMjhERXRvL1lrYVliYThrR1hqYw%3D%3D
+
 
 
 体育频道,#genre#
-Sky Sports F1,http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
-纬來体育台,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
-EuroSport 1,http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
-EuroSport 2,http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
-TNT SPORTS 1,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
-TNT SPORTS 2,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
-TNT SPORTS 3,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
-Astro Football,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
-Astro Sport UHD,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
+五星体育,https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNE1aaDVEWDlZbnErYllCdDNSRXFZTnVCVDJIeHNzRUNqc1FRenJtQzZJRjU5YjkyeFFRTFYyQzhnakpnV2F2TGkxa3hQTXpXMjRwYlgzbGNjYmRNUWtVTlN3R1dMWHZZWE9iM0xnV1dIbHdZaTdGS2Q5ZG92T1ZjRXRrYkFTUXgwPQ%3D%3D
+Now_sport1,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTVpZVi94azFqb1pSTlhzSG5UZjdDbw%3D%3D
+Now_sport2,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVUHBaL0krVkxNbXNyMlo0V2JtNUN3Kw%3D%3D
+Now_sport3,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVUERta0RxeTl6ZWY4by83K3lxR3N0MQ%3D%3D
+
+
+
 
 
 
@@ -200,6 +189,7 @@ NewTV炫舞未来,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/ind
 睛彩青少,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/index.m3u8
 睛彩竞技,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227047/index.m3u8
 睛彩篮球,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8
+
 
 
 
