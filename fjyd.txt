@@ -60,34 +60,29 @@ CCTV16 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 
 
 港澳台频道,#genre#
-凤凰中文,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVUHRpdGRON3VnRlpDNk8zaTBYMzV5QQ%3D%3D
-凤凰资讯,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQW05L050dUNUQ0ovL292VGprRytROS96VmFydTFRcnlmUzhkNlNJckJ6Vg%3D%3D
-凤凰香港台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTlBmZ3FBQmU4ZVdyYWhPTzBURmhtMQ%3D%3D
-无线新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTVFwcnQ2Y2FvQkRpQWZjMlZUK1lsdA%3D%3D
-无线新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQW05L050dUNUQ0ovL292VGprRytRK1g5ajZwQmZTZzVQZUprQnFRcFBhcA%3D%3D
-有线新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=VzFYQTFYMHAyakFwN1ExTTBROElQd1cvVGdpaDI2NHdDb0RPa2RmcXkwOWgxb29IWElFT0hsdElGcVpobndOb2pZQzMxTHl1VE5yQ2VtZ2p5S3FTN3c9PQ%3D%3D
-NOW新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWdmUVkzMTc1M2RIYU9EVDJaMGc0OQ%3D%3D
-寰宇新闻频道,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTmZFSlFGSDlEMlhHejZLY0xwaDNoRQ%3D%3D
-民视,https://feiyang.wangdu.site/decrypt_m3u.php?url=YXdaYklOcnVHSTRhNWlzUW1lMHlaYTRTTHVIQzloK1BiOUNQdHN6VVJYRnM3VmdMYjhEZmo4bGJzdWRnRUliZHoxVGlwOWNGM3lKSmFRZ1hHb1FpUFE9PQ%3D%3D
-台视新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTlBDa2RNRGhQZVpKRWlNZGVhV09jRA%3D%3D
-中视新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWVydmZ5WmdCMWhTWmdudGNvN0JoUQ%3D%3D
-民视新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=RVEvMmdMNThSaG5wRUR2bU1NRUx6dUg5U29oSnAzRytlOUVhQTI1dG01azk2S256OFJTUTZYOFovd2xDamdsR2VvYUR5VGhyLzdKWUlXM3ZUOTRGWFE9PQ%3D%3D
-中天新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTzVHNjhwclM5QTNvblZoaGlKaXBESQ%3D%3D
-东森新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWRzMUd2MWJ6QTFrQ1YwQmxWWXRObQ%3D%3D
-TVBS新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWFxZWx1eTAzc1oydm5mcjJCS1ErcQ%3D%3D
-TVBS,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTmpEQUU5VTNZdXVhWTA3N2V0VUVreA%3D%3D
-三立新闻加限,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTmlCNzFvQnRmL29tQXFPQ0JFT2VzNw%3D%3D
-非凡新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTldnZDY5Qm9jK0FMWmVOaDhDdkNpOA%3D%3D
-TVBS,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTnJzQUhLUXNOVE5DbzBrQjRKdXpOWg%3D%3D
-新唐人,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVUFZ2cnVjMnVDV2pvMXgrUFZlNHhFNg%3D%3D
+凤凰中文,https://stream1.freetv.fun/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
+凤凰中文,https://stream1.freetv.fun/9af7ba5bbdf6641cf12253e1112bff185278bce6b4890b2cf8a38d8f3aa909bd.ctv
+凤凰资讯,https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.ctv
+凤凰资讯,https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.ctv
+凤凰资讯,https://stream1.freetv.fun/394e3d5e6a07057143c0beb8ee4f57f8ca189fbe996eec435f23e92ea2acbe46.ctv
+凤凰资讯,https://stream1.freetv.fun/70fd087d8614a89b57ba4a4c51e76ba1d6fad920f1e834846751fb06ddc420cf.ctv
+凤凰香港台,https://stream1.freetv.fun/263f5a53e2d94bf1f253e5bad634184fd87806eb42319b0b5a1826e907efb38a.ctv
+凤凰香港台,https://stream1.freetv.fun/f3a464a32a9c5f86c2cdf5f57e5012637b9fbee76621f8cb1e1987deaa0c61fd.ctv
+无线新闻台,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
+无线新闻台,https://stream1.freetv.fun/4290011e1af62ee2c9dea7a9015fec85668584edfd3a58caa60cee5a8684e6fa.m3u8
 
 
 
 财经频道,#genre#
-第一财经,https://feiyang.wangdu.site/decrypt_m3u.php?url=eVUzTUY2UUE2dytJY1NBdUpCNWdQYTV0QTZMOTNJUkNTSVo1UnF1R0VzQ0pQVzZYRGZoUGhKTVN0WTNkcGM2QQ%3D%3D
-财经频道,https://feiyang.wangdu.site/decrypt_m3u.php?url=Ry9BK2Q2ZUh2QVdBcFBlYXRzYWtydFRtNnc4QlRVTmNWZWlqa2NLR3ByYXMwVDI2QWovUVNCU0hRQjdjbUNheQ%3D%3D
-北京财经,https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNFNCRC93RDl5bS9BaHV2dlgzOXJpclhMUEFBWVlGNUo4c3ZKaXhOakdyV2luWElhYzdsUGx0M0Z4UkQzZ3hhekJIdm1VTmNqc1dLM05JMnc3K0lZMUU3cVFZN08yUGpXWHRXZzdLMU5Gb25DRTVSejhoMnp5akJneHdNcFUxWXprPQ%3D%3D
-Now财经,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVT0tiMjhERXRvL1lrYVliYThrR1hqYw%3D%3D
+
+
+
+
+体育频道,#genre#
+
+
+
+
 
 
 
@@ -189,6 +184,7 @@ NewTV炫舞未来,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/ind
 睛彩青少,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/index.m3u8
 睛彩竞技,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227047/index.m3u8
 睛彩篮球,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8
+
 
 
 
