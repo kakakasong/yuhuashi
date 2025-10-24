@@ -91,39 +91,21 @@ CCTV-4K,http://27.148.240.185/PLTV/88888888/224/3221227333/1.m3u8
 凤凰中文,rtsp://27.148.240.138/PLTV/88888888/224/3221226148/10000100000000060000000000783423_0.smil?zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ekz_ENXGrcqZaFPWx3Kf9mA%7ERH_bzdopoyPxlRU4atqrACUj7Kb_s8IKRSC5hfWjBp2C0uPjYkVP86x1wrwHEXJubPWheWUZdAXNCtpsgGp_qx6-jqXXjPXiFE6TsQt7xeo%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20191104122119%2C830459%2C27.158.100.159%2C20191104122119%2C10000100000000050000000000795358%2C83045920191104122118%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 凤凰资讯,rtsp://27.148.240.138/PLTV/88888888/224/3221226149/10000100000000060000000000783420_0.smil?zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EZmOoP2nwQpuDraQoJdP1BA%7ERH_bzdopoyPxlRU4atqrACUj7Kb_s8IKRSC5hfWjBp2C0uPjYkVP86x1wrwHEXJubPWheWUZdAXNCtpsgGp_qx6-jqXXjPXiFE6TsQt7xeo%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20191104122119%2C830459%2C27.158.100.159%2C20191104122119%2C10000100000000050000000000795353%2C83045920191104122118%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 凤凰香港台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTlBmZ3FBQmU4ZVdyYWhPTzBURmhtMQ%3D%3D
-无线新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTVFwcnQ2Y2FvQkRpQWZjMlZUK1lsdA%3D%3D
-无线新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQW05L050dUNUQ0ovL292VGprRytRK1g5ajZwQmZTZzVQZUprQnFRcFBhcA%3D%3D
-有线新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=VzFYQTFYMHAyakFwN1ExTTBROElQd1cvVGdpaDI2NHdDb0RPa2RmcXkwOWgxb29IWElFT0hsdElGcVpobndOb2pZQzMxTHl1VE5yQ2VtZ2p5S3FTN3c9PQ%3D%3D
-NOW新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWdmUVkzMTc1M2RIYU9EVDJaMGc0OQ%3D%3D
-寰宇新闻频道,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTmZFSlFGSDlEMlhHejZLY0xwaDNoRQ%3D%3D
-民视,https://feiyang.wangdu.site/decrypt_m3u.php?url=YXdaYklOcnVHSTRhNWlzUW1lMHlaYTRTTHVIQzloK1BiOUNQdHN6VVJYRnM3VmdMYjhEZmo4bGJzdWRnRUliZHoxVGlwOWNGM3lKSmFRZ1hHb1FpUFE9PQ%3D%3D
-台视新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTlBDa2RNRGhQZVpKRWlNZGVhV09jRA%3D%3D
-中视新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWVydmZ5WmdCMWhTWmdudGNvN0JoUQ%3D%3D
-民视新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=RVEvMmdMNThSaG5wRUR2bU1NRUx6dUg5U29oSnAzRytlOUVhQTI1dG01azk2S256OFJTUTZYOFovd2xDamdsR2VvYUR5VGhyLzdKWUlXM3ZUOTRGWFE9PQ%3D%3D
-中天新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTzVHNjhwclM5QTNvblZoaGlKaXBESQ%3D%3D
-东森新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWRzMUd2MWJ6QTFrQ1YwQmxWWXRObQ%3D%3D
-TVBS新闻,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWFxZWx1eTAzc1oydm5mcjJCS1ErcQ%3D%3D
-TVBS,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTmpEQUU5VTNZdXVhWTA3N2V0VUVreA%3D%3D
-三立新闻加限,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTmlCNzFvQnRmL29tQXFPQ0JFT2VzNw%3D%3D
-非凡新闻台,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTldnZDY5Qm9jK0FMWmVOaDhDdkNpOA%3D%3D
-TVBS,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTnJzQUhLUXNOVE5DbzBrQjRKdXpOWg%3D%3D
-新唐人,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVUFZ2cnVjMnVDV2pvMXgrUFZlNHhFNg%3D%3D
+无线新闻台,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
+无线新闻台,https://stream1.freetv.fun/4290011e1af62ee2c9dea7a9015fec85668584edfd3a58caa60cee5a8684e6fa.m3u8
 
 
 
 财经频道,#genre#
-第一财经,https://feiyang.wangdu.site/decrypt_m3u.php?url=eVUzTUY2UUE2dytJY1NBdUpCNWdQYTV0QTZMOTNJUkNTSVo1UnF1R0VzQ0pQVzZYRGZoUGhKTVN0WTNkcGM2QQ%3D%3D
-财经频道,https://feiyang.wangdu.site/decrypt_m3u.php?url=Ry9BK2Q2ZUh2QVdBcFBlYXRzYWtydFRtNnc4QlRVTmNWZWlqa2NLR3ByYXMwVDI2QWovUVNCU0hRQjdjbUNheQ%3D%3D
-北京财经,https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNFNCRC93RDl5bS9BaHV2dlgzOXJpclhMUEFBWVlGNUo4c3ZKaXhOakdyV2luWElhYzdsUGx0M0Z4UkQzZ3hhekJIdm1VTmNqc1dLM05JMnc3K0lZMUU3cVFZN08yUGpXWHRXZzdLMU5Gb25DRTVSejhoMnp5akJneHdNcFUxWXprPQ%3D%3D
-Now财经,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVT0tiMjhERXRvL1lrYVliYThrR1hqYw%3D%3D
+
 
 
 
 体育频道,#genre#
-五星体育,https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNE1aaDVEWDlZbnErYllCdDNSRXFZTnVCVDJIeHNzRUNqc1FRenJtQzZJRjU5YjkyeFFRTFYyQzhnakpnV2F2TGkxa3hQTXpXMjRwYlgzbGNjYmRNUWtVTlN3R1dMWHZZWE9iM0xnV1dIbHdZaTdGS2Q5ZG92T1ZjRXRrYkFTUXgwPQ%3D%3D
-Now_sport1,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTVpZVi94azFqb1pSTlhzSG5UZjdDbw%3D%3D
-Now_sport2,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVUHBaL0krVkxNbXNyMlo0V2JtNUN3Kw%3D%3D
-Now_sport3,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVUERta0RxeTl6ZWY4by83K3lxR3N0MQ%3D%3D
+
+
+
+
 
 
 
@@ -167,6 +149,7 @@ Now_sport3,https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sT
 
 加密节目_353535,#genre#
 『福建电信』,http://27.148.240.185/PLTV/88888888/224/3221226861/1.m3u8
+
 
 
 
