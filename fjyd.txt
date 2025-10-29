@@ -70,6 +70,9 @@ CCTV16 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 凤凰香港台,https://stream1.freetv.fun/f3a464a32a9c5f86c2cdf5f57e5012637b9fbee76621f8cb1e1987deaa0c61fd.ctv
 无线新闻台,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
 无线新闻台,https://stream1.freetv.fun/4290011e1af62ee2c9dea7a9015fec85668584edfd3a58caa60cee5a8684e6fa.m3u8
+中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw01
+中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw02
+
 
 
 
@@ -184,6 +187,7 @@ NewTV炫舞未来,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/ind
 睛彩青少,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/index.m3u8
 睛彩竞技,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227047/index.m3u8
 睛彩篮球,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8
+
 
 
 
