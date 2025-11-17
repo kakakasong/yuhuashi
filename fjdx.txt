@@ -29,6 +29,9 @@ CGTN俄语,http://27.148.240.185/PLTV/88888888/224/3221227278/1.m3u8
 CCTV-4K,http://27.148.240.185/PLTV/88888888/224/3221227333/1.m3u8
 广东卫视4K超高清,http://27.148.240.185/PLTV/88888888/224/3221227404/1.m3u8
 深圳卫视4K超高清,http://27.148.240.185/PLTV/88888888/224/3221227408/1.m3u8
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+
 
 
 地方卫视,#genre#
@@ -90,17 +93,18 @@ CCTV-4K,http://27.148.240.185/PLTV/88888888/224/3221227333/1.m3u8
 港澳台频道,#genre#
 凤凰中文,rtsp://27.148.240.138/PLTV/88888888/224/3221226148/10000100000000060000000000783423_0.smil?zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ekz_ENXGrcqZaFPWx3Kf9mA%7ERH_bzdopoyPxlRU4atqrACUj7Kb_s8IKRSC5hfWjBp2C0uPjYkVP86x1wrwHEXJubPWheWUZdAXNCtpsgGp_qx6-jqXXjPXiFE6TsQt7xeo%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20191104122119%2C830459%2C27.158.100.159%2C20191104122119%2C10000100000000050000000000795358%2C83045920191104122118%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 凤凰资讯,rtsp://27.148.240.138/PLTV/88888888/224/3221226149/10000100000000060000000000783420_0.smil?zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EZmOoP2nwQpuDraQoJdP1BA%7ERH_bzdopoyPxlRU4atqrACUj7Kb_s8IKRSC5hfWjBp2C0uPjYkVP86x1wrwHEXJubPWheWUZdAXNCtpsgGp_qx6-jqXXjPXiFE6TsQt7xeo%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20191104122119%2C830459%2C27.158.100.159%2C20191104122119%2C10000100000000050000000000795353%2C83045920191104122118%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
-凤凰香港台,https://stream1.freetv.fun/263f5a53e2d94bf1f253e5bad634184fd87806eb42319b0b5a1826e907efb38a.ctv
-凤凰香港台,https://stream1.freetv.fun/f3a464a32a9c5f86c2cdf5f57e5012637b9fbee76621f8cb1e1987deaa0c61fd.ctv
-无线新闻台,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
-无线新闻台,https://stream1.freetv.fun/4290011e1af62ee2c9dea7a9015fec85668584edfd3a58caa60cee5a8684e6fa.m3u8
-中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw01
-中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw02
+凤凰香港台,https://migu.188766.xyz/?migutoken=6d9b00a21f219d5ebcd4265628a4270b&id=hk_fhhk&type=dy
+凤凰香港台,https://migu.188766.xyz/?migutoken=66457a0bb99c69b42e7c6b90daf69645&id=fhhk&pp=1
+无线新闻台,https://migu.188766.xyz/?migutoken=50dd095a9ae3d508bdeea45994c1c11d&id=hk_wxxw&type=dy
+Now新闻台,https://migu.188766.xyz/?migutoken=a2e3287a07412e47561b9298d029a244&id=hk_now&type=dy
+TVB Plus,https://migu.188766.xyz/?migutoken=ced25d4c6e3c6cc594b75dd6ff206622&id=hk_tvbp&type=dy
+明珠台,https://migu.188766.xyz/?migutoken=daec0d0ca4af4a2ea173af6dc7a056d1&id=hk_mzt&type=dy
 
 
 
 
 财经频道,#genre#
+上海第一财经,https://migu.188766.xyz/?migutoken=cf55b3ba41be668dc3d3ec297be63e2f&id=dycj&type=sz
 
 
 
@@ -154,6 +158,7 @@ CCTV-4K,http://27.148.240.185/PLTV/88888888/224/3221227333/1.m3u8
 
 加密节目_353535,#genre#
 『福建电信』,http://27.148.240.185/PLTV/88888888/224/3221226861/1.m3u8
+
 
 
 
