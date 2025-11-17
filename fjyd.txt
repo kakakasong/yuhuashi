@@ -60,18 +60,17 @@ CCTV16 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 
 
 港澳台频道,#genre#
-凤凰中文,https://stream1.freetv.fun/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
-凤凰中文,https://stream1.freetv.fun/9af7ba5bbdf6641cf12253e1112bff185278bce6b4890b2cf8a38d8f3aa909bd.ctv
-凤凰资讯,https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.ctv
-凤凰资讯,https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.ctv
-凤凰资讯,https://stream1.freetv.fun/394e3d5e6a07057143c0beb8ee4f57f8ca189fbe996eec435f23e92ea2acbe46.ctv
-凤凰资讯,https://stream1.freetv.fun/70fd087d8614a89b57ba4a4c51e76ba1d6fad920f1e834846751fb06ddc420cf.ctv
-凤凰香港台,https://stream1.freetv.fun/263f5a53e2d94bf1f253e5bad634184fd87806eb42319b0b5a1826e907efb38a.ctv
-凤凰香港台,https://stream1.freetv.fun/f3a464a32a9c5f86c2cdf5f57e5012637b9fbee76621f8cb1e1987deaa0c61fd.ctv
-无线新闻台,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
-无线新闻台,https://stream1.freetv.fun/4290011e1af62ee2c9dea7a9015fec85668584edfd3a58caa60cee5a8684e6fa.m3u8
-中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw01
-中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw02
+凤凰中文,https://migu.188766.xyz/?migutoken=6c8179100c86683b4980abbea824833d&id=hk_fhzw&type=dy
+凤凰中文,https://migu.188766.xyz/?migutoken=6632bcf5db770d55c1681a2675f7be31&id=fhzw&pp=1
+凤凰资讯,https://migu.188766.xyz/?migutoken=91edc784b3420a682378d8ea1ffd359f&id=hk_fhzx&type=dy
+凤凰资讯,https://migu.188766.xyz/?migutoken=b2b97a41d6969c5231b1364663d496bc&id=fhzx&pp=1
+凤凰香港台,https://migu.188766.xyz/?migutoken=6d9b00a21f219d5ebcd4265628a4270b&id=hk_fhhk&type=dy
+凤凰香港台,https://migu.188766.xyz/?migutoken=66457a0bb99c69b42e7c6b90daf69645&id=fhhk&pp=1
+无线新闻台,https://migu.188766.xyz/?migutoken=50dd095a9ae3d508bdeea45994c1c11d&id=hk_wxxw&type=dy
+Now新闻台,https://migu.188766.xyz/?migutoken=a2e3287a07412e47561b9298d029a244&id=hk_now&type=dy
+TVB Plus,https://migu.188766.xyz/?migutoken=ced25d4c6e3c6cc594b75dd6ff206622&id=hk_tvbp&type=dy
+明珠台,https://migu.188766.xyz/?migutoken=daec0d0ca4af4a2ea173af6dc7a056d1&id=hk_mzt&type=dy
+
 
 
 
@@ -187,6 +186,7 @@ NewTV炫舞未来,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/ind
 睛彩青少,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/index.m3u8
 睛彩竞技,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227047/index.m3u8
 睛彩篮球,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8
+
 
 
 
