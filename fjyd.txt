@@ -59,23 +59,25 @@ CCTV16 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 延边卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227330/index.m3u8
 
 
-港澳台频道,#genre#
-凤凰中文,https://migu.188766.xyz/?migutoken=78c6d20c2d896f46b72d8225bd6c90eb&id=hk_fhzw&type=dy
-凤凰中文,https://migu.188766.xyz/?migutoken=69601892e97b095f69bfddf9263a86bd&id=fhzw&pp=1
-凤凰资讯,https://migu.188766.xyz/?migutoken=d21402614aeac38b8cf3228fabb83438&id=hk_fhzx&type=dy
-凤凰资讯,https://migu.188766.xyz/?migutoken=6831b14f9a60ad7154ab2393bd6d855e&id=fhzx&pp=1
-凤凰香港台,https://migu.188766.xyz/?migutoken=5be7d979fe753b5663e49f30e778f723&id=hk_fhhk&type=dy
-凤凰香港台,https://migu.188766.xyz/?migutoken=af6addb20513a9812da6df6fea1ae9df&id=fhhk&pp=1
-无线新闻台,https://migu.188766.xyz/?migutoken=85f4648caf955f4c129d55f2be7fcba3&id=hk_wxxw&type=dy
-Now新闻台,https://migu.188766.xyz/?migutoken=2e498da37db268a215cf1e69ff3f6d6e&id=hk_now&type=dy
-TVB Plus,https://migu.188766.xyz/?migutoken=c6797215f33bb1398582127833cf9d10&id=hk_tvbp&type=dy
-明珠台,https://migu.188766.xyz/?migutoken=85e142b77b0bb19964a9131144957f85&id=hk_mzt&type=dy
 
+
+港澳台频道,#genre#
+凤凰中文,https://hk.188766.xyz/?migutoken=acd0ca5b8ef7ec659301ecb92f7803f3&id=hk_fhzw&type=dy
+凤凰中文,https://hk.188766.xyz/?migutoken=094816b44a7a8276f09c49390492daac&id=fhzw&pp=1
+凤凰资讯,https://hk.188766.xyz/?migutoken=bb689afb265117c6b96a75b01054fd81&id=hk_fhzx&type=dy
+凤凰资讯,https://hk.188766.xyz/?migutoken=106437409e5da6e89cd49810740eb2fd&id=fhzx&pp=1
+凤凰香港台,https://hk.188766.xyz/?migutoken=7567cd1ec463130a80a536d9d199d871&id=hk_fhhk&type=dy
+凤凰香港台,https://hk.188766.xyz/?migutoken=3108909cafacf057df6f48dcb8634bd5&id=fhhk&pp=1
+无线新闻台,https://hk.188766.xyz/?migutoken=fdfb5fba2e3297608b447001f0056838&id=hk_wxxw&type=dy
+Now新闻台,https://hk.188766.xyz/?migutoken=d958e03e74fadaf6d25e9cd3d23a955a&id=hk_now&type=dy
+TVB Plus,https://hk.188766.xyz/?migutoken=b04fa4dffe66bd60c8d7fd58ae6592b9&id=hk_tvbp&type=dy
+明珠台,https://hk.188766.xyz/?migutoken=d4a1b1957bf78a8dc0f7168dda78a81e&id=hk_mzt&type=dy
 
 
 
 财经频道,#genre#
-上海第一财经,https://migu.188766.xyz/?migutoken=e25a79bd238d418a909db36bdad7664e&id=dycj&type=sz
+上海第一财经,https://migu.188766.xyz/?migutoken=3553e982b6fe3644115240b830042d7b&id=dycj&type=sz
+
 
 
 体育频道,#genre#
@@ -173,6 +175,7 @@ NewTV炫舞未来,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/ind
 睛彩青少,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/index.m3u8
 睛彩竞技,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227047/index.m3u8
 睛彩篮球,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8
+
 
 
 
