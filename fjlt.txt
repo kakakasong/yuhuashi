@@ -77,21 +77,21 @@ CCTV-4K,rtsp://112.111.36.140/PLTV/88888909/224/3221225984/100001000000000600000
 
 
 港澳台频道,#genre#
-凤凰中文,https://mgev.188766.xyz/?migutoken=133dd7109246d16d3b80415817b82c10&id=hk_fhzw&type=dy
-凤凰中文,https://mgev.188766.xyz/?migutoken=5300a2ffc0d79c7d40ee12255109ca33&id=fhzw&pp=1
-凤凰资讯,https://mgev.188766.xyz/?migutoken=2290a7b8986d14378c8e29ba1d0d3775&id=hk_fhzx&type=dy
-凤凰资讯,https://mgev.188766.xyz/?migutoken=b8a0004f85ee481cd1a93acd917e4993&id=fhzx&pp=1
-凤凰香港台,https://mgev.188766.xyz/?migutoken=e9a8cab7e4c0480c35a2d02b09c042ec&id=hk_fhhk&type=dy
-凤凰香港台,https://mgev.188766.xyz/?migutoken=a4e0831ab9eeea29491f5c279bbb2114&id=fhhk&pp=1
-无线新闻台,https://mgev.188766.xyz/?migutoken=11216c0fc7993ab16e9452befce3b7cb&id=hk_wxxw&type=dy
-Now新闻台,https://mgev.188766.xyz/?migutoken=6c4370e32d490cece7830bd34d6ad0a5&id=hk_now&type=dy
-TVB Plus,https://mgev.188766.xyz/?migutoken=9b6c3ad6c912ee918f568cd8999d6257&id=hk_tvbp&type=dy
-明珠台,https://mgev.188766.xyz/?migutoken=15a9c595b5348d9d09dd028f328cb506&id=hk_mzt&type=dy
+凤凰中文,https://mgev.188766.xyz/?migutoken=eeb9c96770f27df8caaad0bab11e8558&id=hk_fhzw&type=dy
+凤凰中文,https://mgev.188766.xyz/?migutoken=e1d4d736d68fb87823a5e235267630cf&id=fhzw&pp=1
+凤凰资讯,https://mgev.188766.xyz/?migutoken=d2a275de75be6fb600bd31d180aaf939&id=hk_fhzx&type=dy
+凤凰资讯,https://mgev.188766.xyz/?migutoken=0335aa16ea6372b7ea28964304c60a14&id=fhzx&pp=1
+凤凰香港台,https://mgev.188766.xyz/?migutoken=900d2168e80f08f31c2119ee910d81f5&id=hk_fhhk&type=dy
+凤凰香港台,https://mgev.188766.xyz/?migutoken=49a30deecdf26852477705b558c0bddb&id=fhhk&pp=1
+无线新闻台,https://mgev.188766.xyz/?migutoken=f762cc39c3bb91bfc1e95f3a55925901&id=hk_wxxw&type=dy
+Now新闻台,https://mgev.188766.xyz/?migutoken=cdcbba6129da9f34f63cf04fadfb925f&id=hk_now&type=dy
+TVB Plus,https://mgev.188766.xyz/?migutoken=1f2bd197b62cd03f2cab1f08b2a82703&id=hk_tvbp&type=dy
+明珠台,https://mgev.188766.xyz/?migutoken=4b4c4e8ecd5d7e4696aa4c8b8148b161&id=hk_mzt&type=dy
 
 
 
 财经频道,#genre#
-上海第一财经,https://migu.188766.xyz/?migutoken=94b876104e07a864ccdd40f74bd1cc52&id=dycj&type=sz
+上海第一财经,https://migu.188766.xyz/?migutoken=7f52d02ab35653aead505bbc6c535926&id=dycj&type=sz
 
 
 
@@ -148,7 +148,9 @@ CCTV-14,rtsp://112.111.36.140/PLTV/88888909/224/3221225697/100001000000000600000
 纪实科教(测试),rtsp://112.111.36.140/PLTV/88888909/224/3221225989/390009032.smil?rrsip=220.200.30.136,rrsip=112.111.36.140,rrsip=220.200.30.136&zoneoffset=480&icpid=113&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ew6m5I9T1z3lYxkuzOWdqaQec209af2cb3f7e8b4a81dfcd975ead17%7Erec7_nn0Z1JZmggNi63Fp7oGoR349kXNuvoqK-Tf-_itnljaW7nIDMiuAc41J6yzR9TFrq1vf-suVGKNgzswQ0akBsqZWMH5VrjXl-8PGcc15b2d68576b495e1ed990eb8849c10f0%7EExtInfoCXEhhXATZCREJyzZ3gF7jwa12a6be08369f3b021607f40b230bae2%3A20250705143320%2C356000%2C175.44.14.126%2C20250705143320%2C00000001000000050000000000000565%2C356000%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C390009032%2CEND
 山东教育,rtsp://112.111.36.140/PLTV/88888909/224/3221225705/10000100000000060000000000391773_0.smil?rrsip=220.200.30.136,rrsip=112.111.36.140,rrsip=220.200.30.136&zoneoffset=480&icpid=113&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EzAkTh7XZdq9766h_INHtMQc460a4596794a1ed7b0b0bd169518c2b%7Erec7_nn0Z1JZmggNi63Fp7oGoR349kXNuvoqK-Tf-_itnljaW7nIDMiuAc41J6yzR9TFrq1vf-suVGKNgzswQ0akBsqZWMH5VrjXl-8PGcc15b2d68576b495e1ed990eb8849c10f0%7EExtInfoCXEhhXATZCREJyzZ3gF7jwa12a6be08369f3b021607f40b230bae2%3A20250705143320%2C356000%2C175.44.14.126%2C20250705143320%2C00005000000000000000000000000248%2C356000%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000391773_0%2CEND
 少儿动画,rtsp://112.111.36.140/PLTV/88888909/224/3221225739/10000100000000060000000000402460_0.smil?rrsip=220.200.30.136,rrsip=112.111.36.140,rrsip=220.200.30.136&zoneoffset=480&icpid=113&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EdAsMwuFRQ_LiLTiy-_m72Q1e2b3d8b2a3e912464017ea2f83362d1%7Erec7_nn0Z1JZmggNi63Fp7oGoR349kXNuvoqK-Tf-_itnljaW7nIDMiuAc41J6yzR9TFrq1vf-suVGKNgzswQ0akBsqZWMH5VrjXl-8PGcc15b2d68576b495e1ed990eb8849c10f0%7EExtInfoCXEhhXATZCREJyzZ3gF7jwa12a6be08369f3b021607f40b230bae2%3A20250705143320%2C356000%2C175.44.14.126%2C20250705143320%2C00000001000000050000000000000103%2C356000%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000402460_0%2CEND
-CH5,https://mgev.188766.xyz/?migutoken=3430eb22320570cea778fe331416419d&id=hk_ch5&type=dy
+CH5,https://mgev.188766.xyz/?migutoken=2c8a83236c08afeb76b334189411ae93&id=hk_ch5&type=dy
+
+
 
 
 
