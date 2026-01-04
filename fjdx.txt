@@ -99,6 +99,8 @@ CCTV-4K,http://27.148.240.185/PLTV/88888888/224/3221227333/1.m3u8
 Now新闻台,https://mgev.188766.xyz/?migutoken=d083f371578c2b864e49817a0c3b6f21&id=hk_now&type=dy
 TVB Plus,https://mgev.188766.xyz/?migutoken=316afa99e3779b148b22e395b1ea4d97&id=hk_tvbp&type=dy
 明珠台,https://mgev.188766.xyz/?migutoken=b88fb99daaa57b79b15f74cb5b1cba4c&id=hk_mzt&type=dy
+中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
+
 
 
 
@@ -159,6 +161,7 @@ TVB Plus,https://mgev.188766.xyz/?migutoken=316afa99e3779b148b22e395b1ea4d97&id=
 
 加密节目_353535,#genre#
 『福建电信』,http://27.148.240.185/PLTV/88888888/224/3221226861/1.m3u8
+
 
 
 
