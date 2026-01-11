@@ -93,19 +93,18 @@ CCTV-4K,http://27.148.240.185/PLTV/88888888/224/3221227333/1.m3u8
 港澳台频道,#genre#
 凤凰中文,rtsp://27.148.240.138/PLTV/88888888/224/3221226148/10000100000000060000000000783423_0.smil?zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ekz_ENXGrcqZaFPWx3Kf9mA%7ERH_bzdopoyPxlRU4atqrACUj7Kb_s8IKRSC5hfWjBp2C0uPjYkVP86x1wrwHEXJubPWheWUZdAXNCtpsgGp_qx6-jqXXjPXiFE6TsQt7xeo%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20191104122119%2C830459%2C27.158.100.159%2C20191104122119%2C10000100000000050000000000795358%2C83045920191104122118%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 凤凰资讯,rtsp://27.148.240.138/PLTV/88888888/224/3221226149/10000100000000060000000000783420_0.smil?zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EZmOoP2nwQpuDraQoJdP1BA%7ERH_bzdopoyPxlRU4atqrACUj7Kb_s8IKRSC5hfWjBp2C0uPjYkVP86x1wrwHEXJubPWheWUZdAXNCtpsgGp_qx6-jqXXjPXiFE6TsQt7xeo%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20191104122119%2C830459%2C27.158.100.159%2C20191104122119%2C10000100000000050000000000795353%2C83045920191104122118%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
-凤凰香港台,https://mgev.188766.xyz/?migutoken=e83eae9be4038edfddf1c5f561510103&id=hk_fhhk&type=dy
-凤凰香港台,https://mgev.188766.xyz/?migutoken=27e2be9d8909d507591ca809c6e83c2a&id=fhhk&pp=1
-无线新闻台,https://mgev.188766.xyz/?migutoken=88ae5edb7f7b88818c7dbee40ab36792&id=hk_wxxw&type=dy
-Now新闻台,https://mgev.188766.xyz/?migutoken=d083f371578c2b864e49817a0c3b6f21&id=hk_now&type=dy
-TVB Plus,https://mgev.188766.xyz/?migutoken=316afa99e3779b148b22e395b1ea4d97&id=hk_tvbp&type=dy
-明珠台,https://mgev.188766.xyz/?migutoken=b88fb99daaa57b79b15f74cb5b1cba4c&id=hk_mzt&type=dy
-中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
+凤凰香港台,https://mgev.188766.xyz/?migutoken=be19b5e9591172f4661c81e715438c42&id=hk_fhhk&type=dy
+凤凰香港台,https://mgev.188766.xyz/?migutoken=8035a56329080b77893b7b8938ffe4c7&id=fhhk&pp=1
+无线新闻台,https://mgev.188766.xyz/?migutoken=c3b8144c03999ebeceaa979c49adcb4e&id=hk_wxxw&type=dy
+Now新闻台,https://mgev.188766.xyz/?migutoken=867aa0391004e9a3e92a65b3fc459c72&id=hk_now&type=dy
+TVB Plus,https://mgev.188766.xyz/?migutoken=7df42dd7dd8438a30b0ec36b25b1eaec&id=hk_tvbp&type=dy
+明珠台,https://mgev.188766.xyz/?migutoken=de871a406b0b78a51c0784a02ea668bb&id=hk_mzt&type=dy
 
 
 
 
 财经频道,#genre#
-上海第一财经,https://migu.188766.xyz/?migutoken=2b2e87d366f112de294b721195579f4f&id=dycj&type=sz
+上海第一财经,https://migu.188766.xyz/?migutoken=5064c26a06468a17390298ebb3cf1f37&id=dycj&type=sz
 
 
 
@@ -161,6 +160,7 @@ TVB Plus,https://mgev.188766.xyz/?migutoken=316afa99e3779b148b22e395b1ea4d97&id=
 
 加密节目_353535,#genre#
 『福建电信』,http://27.148.240.185/PLTV/88888888/224/3221226861/1.m3u8
+
 
 
 
