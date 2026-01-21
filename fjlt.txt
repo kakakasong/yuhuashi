@@ -77,23 +77,22 @@ CCTV-4K,rtsp://112.111.36.140/PLTV/88888909/224/3221225984/100001000000000600000
 
 
 港澳台频道,#genre#
-凤凰中文,https://mgev.188766.xyz/?migutoken=101350486f910f2e2038994864e0e8e1&id=hk_fhzw&type=dy
-凤凰中文,https://mgev.188766.xyz/?migutoken=224c3251edf637830af6c16a012522df&id=fhzw&pp=1
-凤凰资讯,https://mgev.188766.xyz/?migutoken=eb63af441c07edbdf45e3b69692c917e&id=hk_fhzx&type=dy
-凤凰资讯,https://mgev.188766.xyz/?migutoken=e0173d279954b8653bfeeecb32e65d79&id=fhzx&pp=1
-凤凰香港台,https://mgev.188766.xyz/?migutoken=872901c5d9ada9c9a5b2f1d2e73483a5&id=hk_fhhk&type=dy
-凤凰香港台,https://mgev.188766.xyz/?migutoken=20caec526398afec73103d2cf03a7fd9&id=fhhk&pp=1
-无线新闻台,https://mgev.188766.xyz/?migutoken=95d1bef01d7ac9a189a9c4e7f9f2a986&id=hk_wxxw&type=dy
-Now新闻台,https://mgev.188766.xyz/?migutoken=bb9b46e529706eb9a9831e12246eb9bd&id=hk_now&type=dy
-TVB Plus,https://mgev.188766.xyz/?migutoken=62e3ad870a29b0cf3d26653aba8edbf9&id=hk_tvbp&type=dy
-明珠台,https://mgev.188766.xyz/?migutoken=1f2d32def44abb770b13e453e3963a88&id=hk_mzt&type=dy
+凤凰中文,https://mgev.188766.xyz/?migutoken=57e2d248772108d2af9b0741ba3932a5&id=hk_fhzw&type=dy
+凤凰中文,https://mgev.188766.xyz/?migutoken=28303b55501d0fea992fe20edf0c9c43&id=fhzw&pp=1
+凤凰资讯,https://mgev.188766.xyz/?migutoken=81d08e146e8d9d22a7c2bf93939870a1&id=hk_fhzx&type=dy
+凤凰资讯,https://mgev.188766.xyz/?migutoken=f5b5ed31d89b26e134c375ce9b65a201&id=fhzx&pp=1
+凤凰香港台,https://mgev.188766.xyz/?migutoken=f5ab597ba867882faf11c34fc6a975cf&id=hk_fhhk&type=dy
+凤凰香港台,https://mgev.188766.xyz/?migutoken=c2867f3a25dce97e7fc252fe0579111c&id=fhhk&pp=1
+无线新闻台,https://mgev.188766.xyz/?migutoken=95019a240f12dbfceeda6633b410f431&id=hk_wxxw&type=dy
+Now新闻台,https://mgev.188766.xyz/?migutoken=d5e93f7f92b5e1c13618c1ce0866a23f&id=hk_now&type=dy
+TVB Plus,https://mgev.188766.xyz/?migutoken=dae661947d67e60a3636b793cad57982&id=hk_tvbp&type=dy
+明珠台,https://mgev.188766.xyz/?migutoken=77874a124825e508168f7d0535099f4c&id=hk_mzt&type=dy
 
 
 
 
 财经频道,#genre#
-上海第一财经,https://migu.188766.xyz/?migutoken=7788ea616cdaf1cbf20503ac35a45536&id=dycj&type=sz
-
+上海第一财经,https://migu.188766.xyz/?migutoken=731e301862165ee9c3849f0362d63188&id=dycj&type=sz
 
 
 
@@ -151,6 +150,7 @@ CCTV-14,rtsp://112.111.36.140/PLTV/88888909/224/3221225697/100001000000000600000
 山东教育,rtsp://112.111.36.140/PLTV/88888909/224/3221225705/10000100000000060000000000391773_0.smil?rrsip=220.200.30.136,rrsip=112.111.36.140,rrsip=220.200.30.136&zoneoffset=480&icpid=113&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EzAkTh7XZdq9766h_INHtMQc460a4596794a1ed7b0b0bd169518c2b%7Erec7_nn0Z1JZmggNi63Fp7oGoR349kXNuvoqK-Tf-_itnljaW7nIDMiuAc41J6yzR9TFrq1vf-suVGKNgzswQ0akBsqZWMH5VrjXl-8PGcc15b2d68576b495e1ed990eb8849c10f0%7EExtInfoCXEhhXATZCREJyzZ3gF7jwa12a6be08369f3b021607f40b230bae2%3A20250705143320%2C356000%2C175.44.14.126%2C20250705143320%2C00005000000000000000000000000248%2C356000%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000391773_0%2CEND
 少儿动画,rtsp://112.111.36.140/PLTV/88888909/224/3221225739/10000100000000060000000000402460_0.smil?rrsip=220.200.30.136,rrsip=112.111.36.140,rrsip=220.200.30.136&zoneoffset=480&icpid=113&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EdAsMwuFRQ_LiLTiy-_m72Q1e2b3d8b2a3e912464017ea2f83362d1%7Erec7_nn0Z1JZmggNi63Fp7oGoR349kXNuvoqK-Tf-_itnljaW7nIDMiuAc41J6yzR9TFrq1vf-suVGKNgzswQ0akBsqZWMH5VrjXl-8PGcc15b2d68576b495e1ed990eb8849c10f0%7EExtInfoCXEhhXATZCREJyzZ3gF7jwa12a6be08369f3b021607f40b230bae2%3A20250705143320%2C356000%2C175.44.14.126%2C20250705143320%2C00000001000000050000000000000103%2C356000%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000402460_0%2CEND
 CH5,https://mgev.188766.xyz/?migutoken=3fe56d1d52f51f7b54269457a7ed71ab&id=hk_ch5&type=dy
+
 
 
 
