@@ -62,22 +62,19 @@ CCTV16 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 
 
 港澳台频道,#genre#
-凤凰中文,https://mgev.188766.xyz/?migutoken=611562fb43a563000b34a9d342b3cb29&id=hk_fhzw&type=dy
-凤凰中文,https://mgev.188766.xyz/?migutoken=b857c7468b60359d97b6d5cb18b98b59&id=fhzw&pp=1
-凤凰资讯,https://mgev.188766.xyz/?migutoken=dd458c91a8b81b2e395e0e345cd05cfa&id=hk_fhzx&type=dy
-凤凰资讯,https://mgev.188766.xyz/?migutoken=d448a5fb75816a7e728f64e61d47d929&id=fhzx&pp=1
-凤凰香港台,https://mgev.188766.xyz/?migutoken=d06159fc36f013352cf1dd18c8b2c88d&id=hk_fhhk&type=dy
-凤凰香港台,https://mgev.188766.xyz/?migutoken=a3586d91aaff7128d6ea03fcca2cf758&id=fhhk&pp=1
-无线新闻台,https://mgev.188766.xyz/?migutoken=fc0e781a3428f12b97afa4d50e77ef28&id=hk_wxxw&type=dy
-Now新闻台,https://mgev.188766.xyz/?migutoken=3992541ebac2ed0acbdbe3bf0c3ada9c&id=hk_now&type=dy
-TVB Plus,https://mgev.188766.xyz/?migutoken=f51c117f8d87d9ad69452674157761ea&id=hk_tvbp&type=dy
-明珠台,https://mgev.188766.xyz/?migutoken=1e0330dad305b8443656192fe417ebc5&id=hk_mzt&type=dy
-
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰香港台,http://r.jdshipin.com/yDoTN
+凤凰香港台,http://cdn6.163189.xyz/163189/fhhk
+无线新闻台,http://r.jdshipin.com/CkuBd
+无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 
 
 
 财经频道,#genre#
-上海第一财经,https://migu.188766.xyz/?migutoken=12e884c5f7ca31a041059864148bad93&id=dycj&type=sz
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 
 
 
@@ -181,6 +178,7 @@ NewTV炫舞未来,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/ind
 睛彩青少,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/index.m3u8
 睛彩竞技,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227047/index.m3u8
 睛彩篮球,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8
+
 
 
 
