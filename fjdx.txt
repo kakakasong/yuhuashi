@@ -105,7 +105,14 @@ CCTV-4K,http://27.148.240.185/PLTV/88888888/224/3221227333/1.m3u8
 
 
 财经频道,#genre#
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+
+
+海外频道,#genre#
+CNN US,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN International,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+Fox News,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/136761
+Sky News,https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master_5.m3u8
+BBC News UK,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
 
