@@ -87,6 +87,7 @@ CCTV-4K,rtsp://112.111.36.140/PLTV/88888909/224/3221225984/100001000000000600000
 无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 中视新闻,http://rihou.cc:555/tv/hktv/tb19tw0816tw
 华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen.php
+年代新闻,https://iptv.707626.xyz/live/stream-ch-flf6/master.m3u8
 
 
 
