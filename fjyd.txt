@@ -70,24 +70,21 @@ CCTV16 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 凤凰香港台,http://cdn6.163189.xyz/163189/fhhk
 无线新闻台,http://r.jdshipin.com/CkuBd
 无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-民视新闻HD,https://t.freetv.fun/live/min-shi-xin-wen.m3u8
-TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
-中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-3.m3u8
-中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
-中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20222
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-3.php
-寰宇新闻,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
-寰宇新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=globalnews
-寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen.php
-寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-1.php
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-2.m3u8
-NOW新闻,https://cdn.163189.xyz/163189/now
-
+中视新闻,http://rihou.cc:555/tv/hktv/tb19tw0816tw
+华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen.php
 
 
 
 财经频道,#genre#
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+
+
+海外频道,#genre#
+CNN US,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN International,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+Fox News,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/136761
+Sky News,https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master_5.m3u8
+BBC News UK,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
 
 
 
