@@ -91,16 +91,24 @@ CCTV-4K,http://27.148.240.185/PLTV/88888888/224/3221227333/1.m3u8
 莆田一套,rtsp://27.148.240.185/PLTV/88888888/224/3221226283/10000100000000060000000001158529_0.smil?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcPGKUwpyP19nnDnm7mxcVg%7EvXOeg3Vr6um9ZK8fYhne93SRkH6_cmz5uHRfk7VpeiHZ_hvmZiwBJZjJi3dgFiqsN0Ykse-QcFJrOGLQxMSzDxPYXlVZ97tpqCSikhLTV3A%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%2CEND
 
 港澳台频道,#genre#
-凤凰中文,rtsp://27.148.240.138/PLTV/88888888/224/3221226148/10000100000000060000000000783423_0.smil?zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ekz_ENXGrcqZaFPWx3Kf9mA%7ERH_bzdopoyPxlRU4atqrACUj7Kb_s8IKRSC5hfWjBp2C0uPjYkVP86x1wrwHEXJubPWheWUZdAXNCtpsgGp_qx6-jqXXjPXiFE6TsQt7xeo%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20191104122119%2C830459%2C27.158.100.159%2C20191104122119%2C10000100000000050000000000795358%2C83045920191104122118%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
-凤凰资讯,rtsp://27.148.240.138/PLTV/88888888/224/3221226149/10000100000000060000000000783420_0.smil?zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EZmOoP2nwQpuDraQoJdP1BA%7ERH_bzdopoyPxlRU4atqrACUj7Kb_s8IKRSC5hfWjBp2C0uPjYkVP86x1wrwHEXJubPWheWUZdAXNCtpsgGp_qx6-jqXXjPXiFE6TsQt7xeo%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20191104122119%2C830459%2C27.158.100.159%2C20191104122119%2C10000100000000050000000000795353%2C83045920191104122118%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰中文,https://smt2.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰资讯,https://smt2.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰香港台,http://r.jdshipin.com/yDoTN
 凤凰香港台,http://cdn6.163189.xyz/163189/fhhk
+凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
+凤凰香港台,https://smt2.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 无线新闻台,http://r.jdshipin.com/CkuBd
 无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻台,https://cdn6.163189.xyz/163189/wxxw
+无线新闻台,https://cdn6.163189.xyz/163189/wxxwt
+无线新闻台,https://smt2.1678520.xyz/smt3.2.1.php?id=inews_twn
 中视新闻,http://rihou.cc:555/tv/hktv/tb19tw0816tw
 华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen.php
-
-
+Now新聞台,https://cdn.163189.xyz/163189/now
 
 
 
@@ -113,7 +121,6 @@ CNN International,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cn
 Fox News,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/136761
 Sky News,https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master_5.m3u8
 BBC News UK,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
 
 
 
