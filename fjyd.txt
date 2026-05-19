@@ -77,8 +77,7 @@ CCTV16 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 无线新闻台,https://cdn6.163189.xyz/163189/wxxw
 无线新闻台,https://cdn6.163189.xyz/163189/wxxwt
 无线新闻台,https://smt2.1678520.xyz/smt3.2.1.php?id=inews_twn
-中视新闻,http://rihou.cc:555/tv/hktv/tb19tw0816tw
-华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen.php
+TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
 Now新聞台,https://cdn.163189.xyz/163189/now
 
 
