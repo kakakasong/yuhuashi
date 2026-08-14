@@ -62,9 +62,13 @@ CCTV16 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 
 
 港澳台频道,#genre#
+凤凰中文,https://cdn6.cc.cd/163189/fhzw
 凤凰中文,https://cdn.qd.je/163189/fhzw
+凤凰资讯,https://cdn6.cc.cd/163189/fhzx
 凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰香港台,https://cdn6.cc.cd/163189/fhhk
 凤凰香港台,https://cdn.qd.je/163189/fhhk
+无线新闻台,https://cdn6.cc.cd/163189/wxxwt
 无线新闻台,https://cdn.qd.je/163189/wxxw
 有线新闻Pdtv,http://rihou.cc:555/tv/[Pd]有线新闻
 TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
