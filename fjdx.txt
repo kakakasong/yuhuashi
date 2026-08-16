@@ -100,17 +100,18 @@ CCTV-4K,http://27.148.240.185/PLTV/88888888/224/3221227333/1.m3u8
 凤凰香港台,https://cdn.qd.je/163189/fhhk
 无线新闻台,https://cdn6.cc.cd/163189/wxxwt
 无线新闻台,https://cdn.qd.je/163189/wxxw
-有线新闻Pdtv,http://rihou.cc:555/tv/[Pd]有线新闻
-TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
-TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
-东森新闻台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
-华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
-寰宇新闻台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
-寰宇新闻台湾台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
-民视新闻台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
-三立新闻iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
-中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
-中天新闻台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
+NOW新闻台,https://cdn.qd.je/163189/now
+TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784702901150
+TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
+东森新闻台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784702901150
+华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
+寰宇新闻台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
+寰宇新闻台湾台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784702901150
+民视新闻台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784702901150
+三立新闻iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
+中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
+中天新闻台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
+镜电视新闻台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784702901150
 
 
 
