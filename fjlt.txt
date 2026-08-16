@@ -85,21 +85,32 @@ CCTV-4K,rtsp://112.111.36.140/PLTV/88888909/224/3221225984/100001000000000600000
 凤凰香港台,https://cdn.qd.je/163189/fhhk
 无线新闻台,https://cdn6.cc.cd/163189/wxxwt
 无线新闻台,https://cdn.qd.je/163189/wxxw
-有线新闻Pdtv,http://rihou.cc:555/tv/[Pd]有线新闻
-TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
-TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
-东森新闻台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
-华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
-寰宇新闻台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
-寰宇新闻台湾台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
-民视新闻台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
-三立新闻iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
-中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
-中天新闻台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
+NOW新闻台,https://cdn.qd.je/163189/now
+TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784702901150
+TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
+东森新闻台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784702901150
+华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
+寰宇新闻台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
+寰宇新闻台湾台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784702901150
+民视新闻台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784702901150
+三立新闻iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
+中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
+中天新闻台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
+镜电视新闻台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784702901150
+
+
+
+
+
+
+
+
+
 
 
 
 财经频道,#genre#
+东森财经新闻台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784702901150
 
 
 
@@ -169,6 +180,7 @@ CCTV-14,rtsp://112.111.36.140/PLTV/88888909/224/3221225697/100001000000000600000
 山东教育,rtsp://112.111.36.140/PLTV/88888909/224/3221225705/10000100000000060000000000391773_0.smil?rrsip=220.200.30.136,rrsip=112.111.36.140,rrsip=220.200.30.136&zoneoffset=480&icpid=113&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EzAkTh7XZdq9766h_INHtMQc460a4596794a1ed7b0b0bd169518c2b%7Erec7_nn0Z1JZmggNi63Fp7oGoR349kXNuvoqK-Tf-_itnljaW7nIDMiuAc41J6yzR9TFrq1vf-suVGKNgzswQ0akBsqZWMH5VrjXl-8PGcc15b2d68576b495e1ed990eb8849c10f0%7EExtInfoCXEhhXATZCREJyzZ3gF7jwa12a6be08369f3b021607f40b230bae2%3A20250705143320%2C356000%2C175.44.14.126%2C20250705143320%2C00005000000000000000000000000248%2C356000%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000391773_0%2CEND
 少儿动画,rtsp://112.111.36.140/PLTV/88888909/224/3221225739/10000100000000060000000000402460_0.smil?rrsip=220.200.30.136,rrsip=112.111.36.140,rrsip=220.200.30.136&zoneoffset=480&icpid=113&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EdAsMwuFRQ_LiLTiy-_m72Q1e2b3d8b2a3e912464017ea2f83362d1%7Erec7_nn0Z1JZmggNi63Fp7oGoR349kXNuvoqK-Tf-_itnljaW7nIDMiuAc41J6yzR9TFrq1vf-suVGKNgzswQ0akBsqZWMH5VrjXl-8PGcc15b2d68576b495e1ed990eb8849c10f0%7EExtInfoCXEhhXATZCREJyzZ3gF7jwa12a6be08369f3b021607f40b230bae2%3A20250705143320%2C356000%2C175.44.14.126%2C20250705143320%2C00000001000000050000000000000103%2C356000%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000402460_0%2CEND
 CH5,https://cdn.qd.je/163189/ch5
+MOMO亲子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1784702901150
 
 
 
