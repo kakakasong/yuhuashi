@@ -61,11 +61,6 @@ CCTV16 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 
 
 
-港澳台频道,#genre#
-凤凰中文,https://cdn6.cc.cd/163189/fhzw
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰资讯,https://cdn6.cc.cd/163189/fhzx
-凤凰资讯,https://cdn.qd.je/163189/fhzx
 凤凰香港台,https://cdn6.cc.cd/163189/fhhk
 凤凰香港台,https://cdn.qd.je/163189/fhhk
 无线新闻台,https://cdn6.cc.cd/163189/wxxwt
@@ -77,9 +72,10 @@ TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
 华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
 寰宇新闻台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
 寰宇新闻台湾台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784702901150
-民视新闻台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784702901150
+民视新闻台,http://220.135.241.47:8310/0.ts
 三立新闻iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
-中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
+中视新闻,http://220.135.241.47:8302/0.ts
+台视新闻,http://220.135.241.47:8314/0.ts
 中天新闻台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
 镜电视新闻台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784702901150
 
@@ -96,7 +92,7 @@ TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
 
 财经频道,#genre#
 东森财经新闻台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784702901150
-
+台视财经,http://220.135.241.47:8315/0.ts
 
 
 
