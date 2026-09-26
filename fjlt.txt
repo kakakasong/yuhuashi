@@ -84,27 +84,28 @@ CCTV-4K,rtsp://112.111.36.140/PLTV/88888909/224/3221225984/100001000000000600000
 
 
 港澳台频道,#genre#
-凤凰中文,https://cdn6.cc.cd/163189/fhzw
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰资讯,https://cdn6.cc.cd/163189/fhzx
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰香港台,https://cdn6.cc.cd/163189/fhhk
-凤凰香港台,https://cdn.qd.je/163189/fhhk
-无线新闻台,https://cdn6.cc.cd/163189/wxxwt
-无线新闻台,https://cdn.qd.je/163189/wxxw
-NOW新闻台,https://cdn.qd.je/163189/now
-TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784702901150
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://173.208.234.146/live/fhzw.m3u8
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
+凤凰香港台,http://173.208.234.146/live/fhxg.m3u8
+无线新闻台,http://r.jdshipin.com/CkuBd
+无线新闻台,http://cdn6.123.rr.kg/163189/wxxw
+NOW新闻台,http://173.208.234.146/live/nowxw.m3u8
+TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
-东森新闻台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784702901150
-华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
+东森新闻台,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 寰宇新闻台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
 寰宇新闻台湾台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784702901150
-民视新闻台,http://220.135.241.47:8310/0.ts
-三立新闻iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
-中视新闻,http://220.135.241.47:8302/0.ts
+民视新闻台,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+三立LIVE,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+三立新闻https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 台视新闻,http://220.135.241.47:8314/0.ts
-中天新闻台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
+中天新闻台,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 镜电视新闻台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784702901150
+
 
 
 
