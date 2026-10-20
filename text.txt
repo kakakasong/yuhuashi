@@ -1,6 +1,5 @@
 『福建联通』,#genre#
 『福建联通』,http://220.135.241.47:8302/0.ts
 央视频道,#genre#
-CCTV2,http://220.135.241.47:8310/0.ts
-CCTV6,http://220.135.241.47:8314/0.ts
-CCTV5,http://220.135.241.47:8315/0.ts
+CCTV2,http://141.11.87.155/diyp/ffmpeg-test/live-test/index.m3u8
+
