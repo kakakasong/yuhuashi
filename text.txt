@@ -1,7 +1,4 @@
 『福建联通』,#genre#
 『福建联通』,http://220.135.241.47:8302/0.ts
 央视频道,#genre#
-三立测试1,http://141.11.87.155/diyp/ffmpeg-test/inews-test1/news.m3u8
-三立测试2,http://141.11.87.155/diyp/ffmpeg-test/inews-test2/news.m3u8
-三立测试3,http://141.11.87.155/diyp/ffmpeg-test/inews-test3/news.m3u8
-三立测试4,http://141.11.87.155/diyp/ffmpeg-test/inews-test4/news.m3u8
+4555,http://141.11.87.155/diyp/ffmpeg-test/tvbs-preview-v1/news.m3u8
