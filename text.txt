@@ -2,3 +2,4 @@
 『福建联通』,http://220.135.241.47:8302/0.ts
 央视频道,#genre#
 4555,http://141.11.87.155/diyp/ffmpeg-test/cti-news-v1/news.m3u8
+5658,http://141.11.87.155/diyp/ffmpeg-test/elta-sports1-v1/news.m3u8
