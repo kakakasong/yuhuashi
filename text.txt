@@ -1,5 +1,5 @@
 『福建联通』,#genre#
 『福建联通』,http://220.135.241.47:8302/0.ts
 央视频道,#genre#
-4555,http://69.8.131.52/diyp/ffmpeg-test/elta-sports1-v1/news.m3u8
-2323,http://69.8.131.52/diyp/ffmpeg-test/momo-v1/news.m3u8
+4345,http://69.8.131.52/diyp/ffmpeg-test/momo-preview-jp/news.m3u8
+
