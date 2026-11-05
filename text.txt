@@ -1,13 +1,1 @@
 『福建联通』,#genre#
-『福建联通』,http://220.135.241.47:8302/0.ts
-央视频道,#genre#
-新唐人美东台,http://69.8.131.52/diyp/ffmpeg-test/ntd-east-v1/news.m3u8
-2333,http://69.8.131.52/diyp/ffmpeg-test/elta-sports1-v1/news.m3u8
-TVBS新闻,http://69.8.131.52/diyp/ffmpeg-test/tvbs-fast-preview-jp/news.m3u8
-东森财经,http://69.8.131.52/diyp/ffmpeg-test/ebc-preview-jp/news.m3u8
-CN卡通,http://69.8.131.52/diyp/ffmpeg-test/cn-preview-jp/news.m3u8
-三立iNEWS,http://69.8.131.52/diyp/ffmpeg-test/inews-v1/news.m3u8
-中天新闻,http://69.8.131.52/diyp/ffmpeg-test/cti-fast-preview-jp/news.m3u8
-无线新闻台,http://69.8.131.52/diyp/ffmpeg-test/tvb-preview-jp/news.m3u8
-民视新闻台,http://69.8.131.52/diyp/ffmpeg-test/ftv-preview-jp/news.m3u8
-寰宇新闻台,http://69.8.131.52/diyp/ffmpeg-test/global-preview-jp/news.m3u8
