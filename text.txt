@@ -3,7 +3,7 @@
 央视频道,#genre#
 4115,http://69.8.131.52/diyp/ffmpeg-test/momo-v1/news.m3u8
 2333,http://69.8.131.52/diyp/ffmpeg-test/elta-sports1-v1/news.m3u8
-TVBS新闻,http://69.8.131.52/diyp/ffmpeg-test/tw-news-v4/news.m3u8
+TVBS新闻,http://69.8.131.52/diyp/ffmpeg-test/tvbs-fast-preview-jp/news.m3u8
 东森财经,http://69.8.131.52/diyp/ffmpeg-test/ebc-preview-jp/news.m3u8
 CN卡通,http://69.8.131.52/diyp/ffmpeg-test/cn-preview-jp/news.m3u8
 三立iNEWS,http://69.8.131.52/diyp/ffmpeg-test/inews-v1/news.m3u8
