@@ -117,6 +117,7 @@ CCTV-4K,rtsp://112.111.36.140/PLTV/88888909/224/3221225984/100001000000000600000
 
 体育频道,#genre#
 愛爾達體育1台,http://69.8.131.52/diyp/ffmpeg-test/elta-sports1-v1/news.m3u8
+Now641 NBA,http://69.8.131.52/diyp/ffmpeg-test/nba-v1/news.m3u8
 ESPN8,http://69.8.131.52/diyp/ffmpeg-test/espn8-v1/news.m3u8
 
 
